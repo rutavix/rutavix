@@ -32,3 +32,5 @@ Full-stack developer focused on backend systems, cloud infrastructure, and devel
 ## Contact
 
 - Open to collaboration on backend, DevOps, and tooling projects
+
+<!-- 1 -->
