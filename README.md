@@ -1,230 +1,41 @@
-# Hi, I'm Rutavix 👋
+﻿# Hi, I'm Rutavix 
 
-Full-stack developer focused on backend systems, cloud infrastructure, and developer tooling.
+Backend-focused Full Stack Developer building reliable APIs, cloud-native systems, and practical DevOps tooling.
 
-## What I build
+## Professional Overview
 
-- Scalable APIs and backend services
-- Cloud automation and CI/CD pipelines
-- Monitoring dashboards and ops-focused tooling
-- Practical productivity apps with clean UI
+I design and ship production-ready software with an emphasis on:
+- maintainable backend architecture
+- deployment automation and observability
+- clear documentation and clean developer experience
 
-## Tech stack
+## Core Skills
 
-- **Backend:** Node.js, TypeScript, Python, Go, SQL
-- **Frontend:** React, JavaScript, modern CSS
-- **DevOps:** Docker, Kubernetes, Terraform, GitHub Actions
-- **Infra & Observability:** AWS, Prometheus, Grafana, Linux
+- **Backend:** Node.js, TypeScript, Python, Go, REST APIs, SQL
+- **Frontend:** React, JavaScript, responsive UI patterns
+- **DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
+- **Cloud & Monitoring:** AWS, Prometheus, Grafana, Linux
 
-## Featured repositories
+## Featured Public Projects
 
-- [taskflow-api](https://github.com/rutavix/taskflow-api) — task management API with authentication and clean REST patterns
-- [cloudwatch-monitor](https://github.com/rutavix/cloudwatch-monitor) — infrastructure monitoring dashboard and metrics visualization
-- [react-dashboard](https://github.com/rutavix/react-dashboard) — analytics dashboard focused on performance and usability
-- [devops-toolkit](https://github.com/rutavix/devops-toolkit) — scripts and utilities for deployment automation
+- **[taskflow-api](https://github.com/rutavix/taskflow-api)**  
+  RESTful task management API with authentication, modular service structure, and maintainable endpoint design.
 
-## 2026 focus
+- **[cloudwatch-monitor](https://github.com/rutavix/cloudwatch-monitor)**  
+  Infrastructure monitoring dashboard for tracking service health, metrics, and operational signals.
 
-- Improve test coverage and code quality in public repos
-- Publish short technical write-ups in repo READMEs
-- Ship small, consistent improvements each week
+- **[react-dashboard](https://github.com/rutavix/react-dashboard)**  
+  Analytics dashboard focused on performance, usability, and clear data visualization.
 
-## Contact
+- **[devops-toolkit](https://github.com/rutavix/devops-toolkit)**  
+  Deployment and environment automation utilities for repeatable operations workflows.
 
-- Open to collaboration on backend, DevOps, and tooling projects
+## Current Focus
 
-<!-- 1 -->
-<!-- 2 -->
-<!-- 3 -->
-<!-- 4 -->
-<!-- 5 -->
-<!-- 6 -->
-<!-- 7 -->
-<!-- 8 -->
-<!-- 9 -->
-<!-- 10 -->
-<!-- 11 -->
-<!-- 12 -->
-<!-- 13 -->
-<!-- 14 -->
-<!-- 15 -->
-<!-- 16 -->
-<!-- 17 -->
-<!-- 18 -->
-<!-- 19 -->
-<!-- 20 -->
-<!-- 21 -->
-<!-- 22 -->
-<!-- 23 -->
-<!-- 24 -->
-<!-- 25 -->
-<!-- 26 -->
-<!-- 27 -->
-<!-- 28 -->
-<!-- 29 -->
-<!-- 30 -->
-<!-- 31 -->
-<!-- 32 -->
-<!-- 33 -->
-<!-- 34 -->
-<!-- 35 -->
-<!-- 36 -->
-<!-- 37 -->
-<!-- 38 -->
-<!-- 39 -->
-<!-- 40 -->
-<!-- 41 -->
-<!-- 42 -->
-<!-- 43 -->
-<!-- 44 -->
-<!-- 45 -->
-<!-- 46 -->
-<!-- 47 -->
-<!-- 48 -->
-<!-- 49 -->
-<!-- 50 -->
-<!-- 51 -->
-<!-- 52 -->
-<!-- 53 -->
-<!-- 54 -->
-<!-- 55 -->
-<!-- 56 -->
-<!-- 57 -->
-<!-- 58 -->
-<!-- 59 -->
-<!-- 60 -->
-<!-- 61 -->
-<!-- 62 -->
-<!-- 63 -->
-<!-- 64 -->
-<!-- 65 -->
-<!-- 66 -->
-<!-- 67 -->
-<!-- 68 -->
-<!-- 69 -->
-<!-- 70 -->
-<!-- 71 -->
-<!-- 72 -->
-<!-- 73 -->
-<!-- 74 -->
-<!-- 75 -->
-<!-- 76 -->
-<!-- 77 -->
-<!-- 78 -->
-<!-- 79 -->
-<!-- 80 -->
-<!-- 81 -->
-<!-- 82 -->
-<!-- 83 -->
-<!-- 84 -->
-<!-- 85 -->
-<!-- 86 -->
-<!-- 87 -->
-<!-- 88 -->
-<!-- 89 -->
-<!-- 90 -->
-<!-- 91 -->
-<!-- 92 -->
-<!-- 93 -->
-<!-- 94 -->
-<!-- 95 -->
-<!-- 96 -->
-<!-- 97 -->
-<!-- 98 -->
-<!-- 99 -->
-<!-- 100 -->
-<!-- 101 -->
-<!-- 102 -->
-<!-- 103 -->
-<!-- 104 -->
-<!-- 105 -->
-<!-- 106 -->
-<!-- 107 -->
-<!-- 108 -->
-<!-- 109 -->
-<!-- 110 -->
-<!-- 111 -->
-<!-- 112 -->
-<!-- 113 -->
-<!-- 114 -->
-<!-- 115 -->
-<!-- 116 -->
-<!-- 117 -->
-<!-- 118 -->
-<!-- 119 -->
-<!-- 120 -->
-<!-- 121 -->
-<!-- 122 -->
-<!-- 123 -->
-<!-- 124 -->
-<!-- 125 -->
-<!-- 126 -->
-<!-- 127 -->
-<!-- 128 -->
-<!-- 129 -->
-<!-- 130 -->
-<!-- 131 -->
-<!-- 132 -->
-<!-- 133 -->
-<!-- 134 -->
-<!-- 135 -->
-<!-- 136 -->
-<!-- 137 -->
-<!-- 138 -->
-<!-- 139 -->
-<!-- 140 -->
-<!-- 141 -->
-<!-- 142 -->
-<!-- 143 -->
-<!-- 144 -->
-<!-- 145 -->
-<!-- 146 -->
-<!-- 147 -->
-<!-- 148 -->
-<!-- 149 -->
-<!-- 150 -->
-<!-- 151 -->
-<!-- 152 -->
-<!-- 153 -->
-<!-- 154 -->
-<!-- 155 -->
-<!-- 156 -->
-<!-- 157 -->
-<!-- 158 -->
-<!-- 159 -->
-<!-- 160 -->
-<!-- 161 -->
-<!-- 162 -->
-<!-- 163 -->
-<!-- 164 -->
-<!-- 165 -->
-<!-- 166 -->
-<!-- 167 -->
-<!-- 168 -->
-<!-- 169 -->
-<!-- 170 -->
-<!-- 171 -->
-<!-- 172 -->
-<!-- 173 -->
-<!-- 174 -->
-<!-- 175 -->
-<!-- 176 -->
-<!-- 177 -->
-<!-- 178 -->
-<!-- 179 -->
-<!-- 180 -->
-<!-- 181 -->
-<!-- 182 -->
-<!-- 183 -->
-<!-- 184 -->
-<!-- 185 -->
-<!-- 186 -->
-<!-- 187 -->
-<!-- 188 -->
-<!-- 189 -->
-<!-- 190 -->
-<!-- 191 -->
-<!-- 192 -->
-<!-- 193 -->
-<!-- 194 -->
-<!-- 195 -->
+- Improving test quality and repository standards
+- Shipping small, consistent improvements weekly
+- Expanding end-to-end examples across backend + DevOps
+
+## Collaboration
+
+I'm open to collaboration on backend engineering, cloud infrastructure, and developer tooling projects.
